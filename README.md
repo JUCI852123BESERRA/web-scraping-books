@@ -1,4 +1,4 @@
-# web-scraping-books
+web-scraping-books
 Raspagem de dados 
 
 
@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 
 import csv
 
-# Passo 3: Defina o URL da página que você quer baixar
+
 url = 'https://books.toscrape.com/index.html'
 
 # Passo 4: Faça a requisição HTTP para a página
